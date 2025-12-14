@@ -1,0 +1,6 @@
+How to add icons (recommended):
+1) Use icons you have the rights to use (best: your own exported app icons, or approved marketing assets).
+2) Replace the placeholder SVG file with a PNG (or SVG) using the SAME filename base.
+   Example: replace assets/icons/idle-city-builder.svg with assets/icons/idle-city-builder.png
+3) Update index.html to point to .png instead of .svg if needed (or keep SVG).
+Tip: 512x512 square icons look best.
